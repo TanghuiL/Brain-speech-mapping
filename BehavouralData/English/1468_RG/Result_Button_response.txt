@@ -1,0 +1,1441 @@
+stim	condition	langcode	tempo	intelligibility	senduration	Tro_response	Tro_reaction_time	Iam_response	Iam_reaction_time
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2182287.64	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2195042.35
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2212677.32
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2227398.46
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2229873.71	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	4	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	3	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2262601.80
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	4	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2285722.64
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2318650.37
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2322057.48
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2328197.18
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2348152.81
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2354905.50
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2361197.37
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2363706.91	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2373743.41	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2379818.64	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2393312.31	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2399681.92
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2406882.15
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2419997.72	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2422778.70	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2440335.17	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2450964.56
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2464263.37
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2475297.28
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2487465.27
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2493956.78
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2516379.79	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2537749.21	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2551723.29	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2563372.55
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2565759.22	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2576247.34	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2585691.15	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2625408.32	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2639402.26
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2642763.02
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2652353.25	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2678424.95
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2681241.19
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2689431.55	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2703353.84
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2705926.82	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2714115.29	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2716574.90
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2726040.10	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2753755.50	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2776469.99	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2782492.98	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2785063.50
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2796117.57	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2813925.95	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2816726.01	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2827275.42
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2840363.50	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2856394.40
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2858909.71	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2874214.94
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2891994.12	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2894353.15
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2904975.69	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2907547.85	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2914527.64
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2920160.17	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2930377.39
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2965652.53	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	2968004.56
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	2978244.98	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2987817.58
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	2996948.97	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	2999359.13
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3009885.90	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3012223.65
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3026908.75
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3036908.07	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3043076.35	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3045576.59	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3064227.54
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3087787.44
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3090504.55
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3133103.97
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3147129.76	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3156131.05
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3192588.39	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3194902.94
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	3	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3223059.07
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3235821.21
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3278740.98
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3282028.55	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3288488.92
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3290924.28
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3309553.58
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3327265.60	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3330293.06	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3343562.71	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3350013.26
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3353387.96	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3359711.66	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3376580.97
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3419698.42	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3422427.60	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3573881.11
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3595751.82
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3610396.56	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3612818.97
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3618887.90	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3621503.57	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3665390.72
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3698093.66
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3725103.19	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3727553.46
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3742090.79
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3770598.91	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3776298.32	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3782258.32
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	3787861.07	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3817010.94
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3830412.00
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3841733.10
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3844225.80
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3850471.33
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3870260.68
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3872805.92	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3886515.66	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3888982.60	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3902781.83	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3912515.90
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3921758.99
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	3924834.61
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3935004.86	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3943664.41	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	3979370.83	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	3981841.58
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4000063.19	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4005866.02
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4013309.85	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4022713.28	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4029800.69	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4037126.59
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4047131.37	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4057383.30	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4072232.30
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4086650.08	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4103441.94
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4113166.84
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4123425.08
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4129511.65
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4135554.34	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4142800.24	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4145546.53	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4151419.44	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4165866.92	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4176948.59
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4204681.37
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4210790.15	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4224088.71	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4231786.84
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4257698.03
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4289967.55	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4296486.21
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4317722.91	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4346607.28	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4356709.92
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	3	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4370463.42
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4382171.89	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4391537.51	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4404660.13
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	3	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4421451.88
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4431849.73	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4434242.30	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4443341.41	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4448945.12
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4471337.54
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4480984.53	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4492705.88	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4495194.13
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4501878.00	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4508222.69	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4533405.39
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4536474.85
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4543148.91	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4552350.36
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4555164.76
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	4	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4608105.80	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4614434.96
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4634899.36
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4637342.99	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	4646759.24
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4649234.03	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4695952.90	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4713462.19
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4730811.40	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4733293.38	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	4	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	4785381.50	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	4787919.12	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	4793784.89
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5213562.90	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5240991.24	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5243592.74
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5258335.61	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5264367.90
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5289511.95
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5292104.67
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5306789.07	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5314131.67	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5328168.88	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5334496.44
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5341166.22	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5347620.60	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5350249.38
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5360893.09
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5396811.93	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5412768.18	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5429363.82
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5447351.44	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5454084.66
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5468315.37
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5471115.79
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5494631.86	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5497261.28	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	3	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5533841.53
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5572081.86	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5598705.72
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5618415.55	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5640305.36
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5645952.55
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5655519.78
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5672735.90
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5685502.16
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5692603.20
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5713870.55	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5716240.84	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5722659.11
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5747903.91
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5762034.63	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5764406.73
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5769912.89
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5780518.21	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5790453.38	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5813096.45	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5830725.55	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5833246.09
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5855475.15	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5858375.21	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5871160.80
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5901206.31
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5912099.25
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	5914452.20
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5932077.74	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5938658.99	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5959839.99
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5966299.20
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	5977275.52	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	5988134.42	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	5990782.44
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6029247.56
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6042948.90
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6045586.58	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6055796.08	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6070513.88
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6073169.61
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6083029.03	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6093820.61
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6108916.97
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6122929.97
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6125536.15
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6146526.15	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6153077.57	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6156359.76
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6163337.90	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6169975.97
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	4	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6183801.89
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6186301.61	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6193417.43
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6207417.12
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6234409.90	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6236765.63	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6256224.21	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6258768.97	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6278967.83	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6281789.78
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6287581.94	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6289989.84
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6301274.56
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6304181.50	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6310239.51	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6340454.68
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6361614.40
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6387706.61
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6420467.70
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6460291.34	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6603415.71	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6610613.34	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6632853.11
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6643871.30	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6646292.42	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6659927.22	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6696693.54
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6699082.50
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6720386.34
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6722976.37	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6736874.25	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6746918.21	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6760788.01
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6781253.68	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6792551.96	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6805819.00
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6808427.47	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6815075.29
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6822056.35	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6824453.46
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6830385.69	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6843028.23	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6853025.32
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6862800.79	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6865355.30	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6872170.35
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6909267.66	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6915459.22	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6929197.92
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6950358.95	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	6977948.29	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	6983529.36	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	6986041.11
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	6999768.71
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7014518.84	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7039574.69	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7057427.39
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7063411.19	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7069850.01	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7077445.21
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7088126.80	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7094250.14	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7109084.31
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7131140.87
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7142717.42
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7148955.29
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7158396.39	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7184376.30
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7225443.47	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7227888.65
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7237539.00
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7240130.66	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7246121.65	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7260069.97
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7266445.21	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7292447.17	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7322266.25
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7332817.50
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7351358.90
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7357257.31	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7362958.96	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7368629.21
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7371377.51
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7380125.94	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7382606.62
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7398290.78
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7412918.65	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7419027.74
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7431227.42
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7437785.91	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7445051.95
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7457967.09
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7460549.90	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	3	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7470479.18
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7480347.76
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7492037.54	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7498470.13
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7533879.10	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7536532.92	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7555678.14
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7576149.23	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7586056.23
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7600755.62
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_origin.wav	Mandarin_original	18	20	25	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7623060.26
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7633885.57
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7661448.52
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7694048.48
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7696843.38	0	0
+Man_origin_com.wav	Mandarin_original_compressed	18	21	25	1900	0	0	0	0
+S1_noise16env16_com.wav	English_intelligible_compressed	17	21	24	1450	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7706248.07	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+iamb_5075_com.wav	"compressed stress pattern: Iamb feet"	0	0	29	500	0	0	1	7716002.60
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7718580.18	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7743302.71	0	0
+iamb_5075.wav	"Stress pattern: Iamb feet"	0	0	27	600	0	0	1	7745908.95
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+S1_noise01env16.wav	English_unintelligible	17	20	23	2200	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7760599.62	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise16env16_com.wav	Mandarin_intelligible_compressed	18	21	24	1900	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7805469.95	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7808078.78	0	0
+S1_noise16env16.wav	English_intelligible	17	20	24	2200	0	0	0	0
+Man_noise16env16.wav	Mandarin_intelligible	18	20	24	2900	0	0	0	0
+S1_noise.wav	noise_control	0	0	16	2200	0	0	0	0
+trochee_7550.wav	"Stress pattern: trochee feet"	0	0	28	600	1	7822788.79	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+S1_noise01env16_com.wav	English_unintelligible_compressed	17	21	23	1450	0	0	0	0
+Man_noise01env16.wav	Mandarin_unintelligible	18	20	23	2900	0	0	0	0
+trochee_7550_com.wav	"compressed stress pattern: trochee feet"	0	0	30	500	1	7837726.01	0	0
+S1_origin_com.wav	English_original_compressed	17	21	25	1450	0	0	0	0
+Man_noise01env16_com.wav	Mandarin_unintelligible_compressed	18	21	23	1900	0	0	0	0
+S1_origin.wav	English_original	17	20	25	2200	0	0	0	0
